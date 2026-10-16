@@ -1,0 +1,13 @@
+# Old material and paper sources, not part of the repository
+Archive/
+paper/
+
+# CRSP data (WRDS licence): regenerate with src/python/01_data_extraction.ipynb
+data/raw/
+data/events/
+
+# MATLAB / Python temporary files
+*.asv
+*.mat
+.ipynb_checkpoints/
+__pycache__/
